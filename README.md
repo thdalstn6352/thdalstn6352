@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi! I'm Minsoo!
-## I hope Frontend Developer 👨‍💻
+## Hi! I'm Minsoo! <br /> I hope Frontend Developer 👨‍💻
+<!-- ## I hope Frontend Developer 👨‍💻 -->
 
 
 
