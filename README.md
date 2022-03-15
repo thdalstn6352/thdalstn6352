@@ -47,4 +47,4 @@ const Minsoo = {
  <img src="https://img.shields.io/badge/-Html5-E34F26?style=flat&logo=html5&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat&logo=postcss&logoColor=ffffff"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-00c8ff?style=flat&logo=react&logoColor=ffffff"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
 
 ---
-⭐️ From [@mingsoo](https://github.com/thdalstn6352)
+⭐️ From [@mingsooo](https://github.com/thdalstn6352)
